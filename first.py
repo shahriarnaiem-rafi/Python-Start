@@ -1,4 +1,4 @@
-# c=print ("Hello i am rafi","I am 20")
+#print ("Hello i am rafi","I am 20")
 
 # a=True
 # b=10

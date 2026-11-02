@@ -47,7 +47,7 @@ num=[2,4,1,5,7,2]
 # print(num)
 
 
-# # remove methon
+# # remove method
 # num.remove(2)
 # print(num)
 
